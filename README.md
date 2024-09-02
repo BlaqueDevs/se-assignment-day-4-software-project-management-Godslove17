@@ -121,16 +121,6 @@ While both Agile and Waterfall methodologies share some common goals, they diffe
 * **Continuous Feedback:** Regular feedback from customers and stakeholders is incorporated into the development process.
 * **More Adaptive:** Can easily accommodate changes and adjustments.
 
-**Key Differences:**
-
-| Feature     | Waterfall            | Agile                    |
-|--- - - - ---|----------------------|--------------------------|
-| Approach    | Linear               | Iterative                |
-| Planning    | Upfront and detailed | Incremental and adaptive |
-| Scope       | Fixed                | Evolving                 |
-| Feedback    | Delayed              | Continuous               |
-| Flexibility | Low                  | High                     |
-
 In essence, Waterfall is a more structured and rigid approach, while Agile is more flexible and adaptable. The choice between the two often depends on the nature of the project, the team's experience, and the organization's culture.
 
 ## Agile vs. Waterfall: A Comparison
